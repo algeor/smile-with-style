@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f4ed8b-7607-4c44-9268-051ebfdd94e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wind-statistics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1sctQxuzM5UUXd2uX9p1doNfQg5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,11 +42,34 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="154" y="0" key="SettingsEditor" timestamp="1621184356988">
+    <state x="350" y="4" key="#Notifications" timestamp="1621197936050">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="154" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1621184356988" />
+    <state x="350" y="4" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1621197936050" />
+    <state x="423" y="97" key="FileChooserDialogImpl" timestamp="1621200819747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="423" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621200819747" />
+    <state x="259" y="0" key="SettingsEditor" timestamp="1621200853579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="259" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1621200853579" />
+    <state x="466" y="138" key="Vcs.Push.Dialog.v2" timestamp="1621197821377">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="138" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1621197821377" />
     <state x="336" y="228" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1621184257512">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
