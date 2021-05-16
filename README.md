@@ -1,6 +1,6 @@
 # WIND Statistics inspired by  SciPy 2019 Tutorial's task 'Wind Statistics'
 
-I do not own th task, neither the datasets.
+I do not own the task, neither the datasets.
 Original repo:
 https://github.com/enthought/Numpy-Tutorial-SciPyConf-2019
 
